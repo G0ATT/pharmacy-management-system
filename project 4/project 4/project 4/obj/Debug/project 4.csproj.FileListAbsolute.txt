@@ -1,0 +1,17 @@
+J:\project 4\project 4\project 4\obj\Debug\project 4.csprojAssemblyReference.cache
+J:\project 4\project 4\project 4\obj\Debug\project_4.billing.resources
+J:\project 4\project 4\project 4\obj\Debug\project_4.employee.resources
+J:\project 4\project 4\project 4\obj\Debug\project_4.Home.resources
+J:\project 4\project 4\project 4\obj\Debug\project_4.medicine.resources
+J:\project 4\project 4\project 4\obj\Debug\project_4.Properties.Resources.resources
+J:\project 4\project 4\project 4\obj\Debug\project_4.suppliers.resources
+J:\project 4\project 4\project 4\obj\Debug\project 4.csproj.GenerateResource.cache
+J:\project 4\project 4\project 4\obj\Debug\project 4.csproj.CoreCompileInputs.cache
+J:\project 4\project 4\project 4\bin\Debug\pharmacy.mdf
+J:\project 4\project 4\project 4\bin\Debug\pharmacy_log.ldf
+J:\project 4\project 4\project 4\bin\Debug\project 4.exe.config
+J:\project 4\project 4\project 4\bin\Debug\project 4.exe
+J:\project 4\project 4\project 4\bin\Debug\project 4.pdb
+J:\project 4\project 4\project 4\obj\Debug\project 4.exe
+J:\project 4\project 4\project 4\obj\Debug\project 4.pdb
+J:\project 4\project 4\project 4\obj\Debug\project_4.Login.resources
